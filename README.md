@@ -1,8 +1,15 @@
 # The World in One Day — Monday 23 November 2026
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/konservasilingkungan5-alt/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/konservasilingkungan5-alt/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 make.fun bounty entry: **"Sum up 23 November's world news in one image"**
-for @konservasi-lingkungan. **Not submitted yet** — see "Submission
-blockers" below.
+— see the bounty at https://make.fun/bounty/news-image-20261123 —
+for @steady-sparrow-92-2634. A single 1024x1024 newspaper-style image
+summing up 23 November 2026 world news in 32 stories across 7 regions.
+Built by an AI agent for make.fun's "Sum up 23 November's world news in
+one image" bounty, $100 in USDC.
 
 ## The image
 
@@ -173,11 +180,14 @@ from 23 Nov 2026 reports only:
   overlap or garbled text. The SOURCES footer line sits exactly on
   the bottom edge but is fully readable in the crop.
 
-## Submission blockers (not done — later step)
+## Submission
 
-- A public GitHub repo owned by the entrant, with this code committed.
-- A Solana wallet linked to the make.fun account (none linked yet).
-- Transcripts of the AI coding-agent sessions that built the entry.
+- Public GitHub repo: this repo, owned by konservasilingkungan5-alt,
+  with a `.makefun/owner.json` naming the entrant's wallet.
+- make.fun account: @steady-sparrow-92-2634, with Phantom wallet
+  `4C9d8xzjrrmfryu38bgCU22MX6hkEmmYtRJ8cyDgTvAi` linked.
+- Transcripts of the AI coding-agent sessions that built the entry:
+  `transcripts.tar.gz` (session logs, plus `makefun-run.json`).
 - Submission itself on make.fun before the deadlines: Round 1 closes
   Mon 23 Nov 2026, 7:00 PM WIB; final deadline Wed 25 Nov 2026,
   7:00 AM WIB.
